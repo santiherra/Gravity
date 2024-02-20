@@ -8,3 +8,5 @@ You will find some scripts, each of which generates an animation. So far, no mor
 ## Contents
 * `solar_system.py`: python script dedicated to the computation of a particle orbit with a root finding method in the two body approximation. Application to the orbits of planets in the SS.
 * `three_body.py`: python script dedicated to the numerical integration of the motion of three gravitationally-interacting particles.
+
+More content and some great updates are yet to come... Keep track!
