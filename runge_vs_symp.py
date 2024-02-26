@@ -81,7 +81,7 @@ arrow1 = axes[0].quiver(x1[0], y1[0], px1[0], py1[0], minshaft =1, minlength=0, 
 arrow2 = axes[0].quiver(x2[0], y2[0], px2[0], py2[0], minshaft =1, minlength=0, scale=18, width=.005)
 arrow3 = axes[0].quiver(x3[0], y3[0], px3[0], py3[0], minshaft =1, minlength=0, scale=18, width=.005)
 axes[0].set_xlim(-1.5, 1.5)
-axes[0].set_ylim(-2, 2)
+axes[0].set_ylim(-1.5, 1.5)
 axes[0].set_xlabel('x')
 axes[0].set_ylabel('y')
 axes[0].set_title('Runge kutta')
