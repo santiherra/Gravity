@@ -10,3 +10,4 @@ You will find some scripts, each of which generates an animation. So far, no mor
 * `three_body.py`: python script dedicated to the numerical integration of the motion of three gravitationally-interacting particles.
 
 More content and some great updates are yet to come... Keep track!
+
